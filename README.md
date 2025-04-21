@@ -5,10 +5,21 @@ Live weather streaming report using Azure Functions, Eventhub and Fabric's Event
 ---
 
 ## 🖼️ Gallery – Quick Preview
+**Architecture Overview:**  
+![Architecture](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/5b7a6edb-3753-4df8-b9d6-bf945fad1857.png)
 
-| Architecture Overview | EventStream | Email Alert | Eventhouse Table | Resource Group |
-|------------------------|-------------|-------------|------------------|----------------|
-| ![Architecture](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/5b7a6edb-3753-4df8-b9d6-bf945fad1857.png) | ![EventStream](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/eventstream-fabric.png) | ![Email Alert](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/email-alert-system.png) | ![Tables](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/eventhouse-tables.png) | ![RG](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/resource-group.png) |
+**EventStream:**  
+![EventStream](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/eventstream-fabric.png)
+
+**Email Alert:**  
+![Email Alert](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/email-alert-system.png)
+
+**Eventhouse Table:**  
+![Tables](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/eventhouse-tables.png)
+
+**Resource Group:**  
+![RG](https://github.com/Tanya0139/live-weather-streaming-azure/blob/main/refrence-screenshots/resource-group.png)
+
 
 ---
 
